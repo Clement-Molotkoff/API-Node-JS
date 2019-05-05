@@ -13,7 +13,6 @@ const router = require('express').Router();
 // Import users controller
 const usersController = require('../Controllers/usersController');
 const authController = require('../Controllers/authController');
-const ticketsController = require('../Controllers/ticketsController');
 
 // Import middleware
 const auth = require('../middleware/auth')
