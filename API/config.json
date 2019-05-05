@@ -1,0 +1,6 @@
+{
+"server": {
+    "database": "<uri database>",
+    "port": 3000
+    }
+}

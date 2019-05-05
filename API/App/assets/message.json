@@ -1,0 +1,25 @@
+{
+        "users": {
+            "loading": "users details loading..",
+            "retrivied": "users retrieved successfully",
+            "update": "users Info updated",
+            "delete": "users deleted",
+            "disconect": "The user has been disconnected",
+            "create": "New users has been created!"
+        }, 
+        "error": {
+            "token": {
+                "invalid": "Invalid token",
+                "missing":"token is missing"
+            },
+            "notmatch":  "Email or Password doesnt match",
+            "null": "error, user is null, contact an administrator",
+            "unauthorized": "You don't have permission for this",
+            "invalidfield": "Field email or password is null"
+            },
+        "test": {
+            "test1": "test1",
+            "test2": "test2",
+            "test3": "test3"
+        }
+}
