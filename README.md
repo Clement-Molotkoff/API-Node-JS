@@ -7,7 +7,7 @@ Base API REST developed in NodeJS with just auth
 ### Use Docker :
 
 ```bash
-$ git clone https://github.com/Clement-Molotkoff/Home-Sweet-Home.git
+$ git clone https://github.com/Clement-Molotkoff/API-Node-JS.git
 ```
 Build image docker :
 ```bash

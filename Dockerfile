@@ -1,3 +1,10 @@
+#
+# Project : API-NODE-JS 
+#
+# Date : May 05 2019
+# Created by Clement Molotkoff 
+#
+
 FROM debian:stretch
 
 MAINTAINER Molotkoff Clement <molotk_c@etna-alternance.net>
